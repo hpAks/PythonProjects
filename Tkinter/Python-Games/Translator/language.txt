@@ -1,0 +1,6 @@
+Spanish : es
+Japanese : ja
+Mandarin : zh
+Hindi : hi
+French : fr-ch
+German : de
