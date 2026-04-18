@@ -1,0 +1,4 @@
+PROMISED_DOWN = 100
+PROMISED_UP = 10
+TWITTER_EMAIL = "akstolearnhere@gmail.com"
+TWITTER_PASSWORD = "aksTolearnhere123@"
